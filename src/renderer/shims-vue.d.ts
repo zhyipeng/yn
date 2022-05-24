@@ -27,6 +27,7 @@ declare module 'path-browserify' {
   import path from 'path'
   export default path
 }
+declare module 'monaco-vim'
 
 declare interface Window {
   ctx: any;
